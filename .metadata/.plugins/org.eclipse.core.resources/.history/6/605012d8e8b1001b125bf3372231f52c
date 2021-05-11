@@ -1,0 +1,5 @@
+package com.fim.da.picada.Backend.config;
+
+public class SecurityConfig {
+
+}
